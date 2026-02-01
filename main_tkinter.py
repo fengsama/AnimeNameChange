@@ -10,7 +10,7 @@ import webbrowser
 class MovieRenamerApp:
     def __init__(self, root):
         self.root = root
-        self.root.title('影视文件批量重命名工具')
+        self.root.title('番剧批量重命名工具 - Kaze V0.1.0')
         # 调整窗口默认尺寸，确保在1366×768及以上分辨率下完整显示
         self.root.geometry('900x650')
         self.root.minsize(800, 600)
