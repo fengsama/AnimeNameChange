@@ -1,0 +1,60 @@
+[2026-02-01 16:23:34] 添加了 31 个文件
+[2026-02-01 16:23:45] 清空了文件列表
+[2026-02-01 16:23:52] 添加了 3 个文件
+[2026-02-01 16:25:28] 成功重命名: [Nekomoe kissaten&LoliHouse] Seihantai na Kimi to Boku - 01 [WebRip 1080p HEVC-10bit AAC ASSx2].mkv -> Seihantai na Kimi to Boku - 1x1.mkv
+[2026-02-01 16:25:28] 成功重命名: [Nekomoe kissaten&LoliHouse] Seihantai na Kimi to Boku - 02 [WebRip 1080p HEVC-10bit AAC ASSx2].mkv -> Seihantai na Kimi to Boku - 1x1_20260201162528.mkv
+[2026-02-01 16:25:28] 重命名失败: [Nekomoe kissaten&LoliHouse] Seihantai na Kimi to Boku - 03 [WebRip 1080p HEVC-10bit AAC ASSx2].mkv - [WinError 183] 当文件已存在时，无法创建该文件。: 'E:/Video/[Nekomoe kissaten&LoliHouse] Seihantai na Kimi to Boku - 03 [WebRip 1080p HEVC-10bit AAC ASSx2].mkv' -> 'E:/Video\\Seihantai na Kimi to Boku - 1x1_20260201162528.mkv'
+[2026-02-01 16:25:28] 操作完成: 成功 2 个, 失败 1 个
+[2026-02-01 16:25:29] 清空了文件列表
+[2026-02-01 16:25:56] 添加了 3 个文件
+[2026-02-01 16:35:14] 添加了 5 个文件，并按名称排序
+[2026-02-01 16:35:25] 清空了文件列表
+[2026-02-01 16:35:30] 添加了 3 个文件，并按名称排序
+[2026-02-01 16:36:05] 成功重命名: Seihantai na Kimi to Boku 1.mkv -> Seihantai na Kimi to Boku - 01x01.mkv
+[2026-02-01 16:36:05] 成功重命名: Seihantai na Kimi to Boku2.mkv -> Seihantai na Kimi to Boku - 01x02.mkv
+[2026-02-01 16:36:05] 成功重命名: [Nekomoe kissaten&LoliHouse] Seihantai na Kimi to Boku - 03 [WebRip 1080p HEVC-10bit AAC ASSx2].mkv -> Seihantai na Kimi to Boku - 01x03.mkv
+[2026-02-01 16:36:05] 操作完成: 成功 3 个, 失败 0 个
+[2026-02-01 16:36:06] 清空了文件列表
+[2026-02-01 16:39:01] 添加了 5 个文件，并按名称排序
+[2026-02-01 16:41:55] 添加了 5 个文件，并按名称排序
+[2026-02-01 16:41:57] 从列表中删除文件: out.mp4
+[2026-02-01 16:41:58] 从列表中删除文件: [Feibanyama] Cosmic Princess Kaguya [NF WebRip 1080p HEVC OPUS Multi-Audio Multi-Subs].mkv
+[2026-02-01 17:10:56] 添加了 5 个文件，并按名称排序
+[2026-02-01 17:11:05] 清空了文件列表
+[2026-02-01 17:11:09] 添加了 3 个文件，并按名称排序
+[2026-02-01 17:11:16] 选择了数字序列 "02" 作为集数
+[2026-02-01 17:22:35] 添加了 5 个文件，并按名称排序
+[2026-02-01 17:22:37] 从列表中删除文件: out.mp4
+[2026-02-01 17:22:39] 从列表中删除文件: [Feibanyama] Cosmic Princess Kaguya [NF WebRip 1080p HEVC OPUS Multi-Audio Multi-Subs].mkv
+[2026-02-01 17:23:58] 成功重命名: Seihantai na Kimi to Boku - 01x01.mkv -> Seihantai na Kimi to Boku - Season 01 - 01.mkv
+[2026-02-01 17:23:58] 成功重命名: Seihantai na Kimi to Boku - 01x02.mkv -> Seihantai na Kimi to Boku - Season 01 - 02.mkv
+[2026-02-01 17:23:58] 成功重命名: Seihantai na Kimi to Boku - 01x03.mkv -> Seihantai na Kimi to Boku - Season 01 - 03.mkv
+[2026-02-01 17:23:58] 操作完成: 成功 3 个, 失败 0 个
+[2026-02-01 17:23:59] 清空了文件列表
+[2026-02-01 17:24:41] 添加了 5 个文件，并按名称排序
+[2026-02-01 17:25:22] 从列表中删除文件: out.mp4
+[2026-02-01 17:25:23] 从列表中删除文件: [Feibanyama] Cosmic Princess Kaguya [NF WebRip 1080p HEVC OPUS Multi-Audio Multi-Subs].mkv
+[2026-02-01 17:26:02] 成功重命名: Seihantai na Kimi to Boku - Season 01 - 01.mkv -> 正相反的你 - 1 - 01.mkv
+[2026-02-01 17:26:02] 成功重命名: Seihantai na Kimi to Boku - Season 01 - 02.mkv -> 正相反的你 - 1 - 02.mkv
+[2026-02-01 17:26:02] 成功重命名: Seihantai na Kimi to Boku - Season 01 - 03.mkv -> 正相反的你 - 1 - 03.mkv
+[2026-02-01 17:26:02] 操作完成: 成功 3 个, 失败 0 个
+[2026-02-01 17:26:03] 清空了文件列表
+[2026-02-01 17:26:59] 添加了 5 个文件，并按名称排序
+[2026-02-01 17:27:04] 从列表中删除文件: [Feibanyama] Cosmic Princess Kaguya [NF WebRip 1080p HEVC OPUS Multi-Audio Multi-Subs].mkv
+[2026-02-01 17:27:05] 从列表中删除文件: out.mp4
+[2026-02-01 17:30:35] 添加了 5 个文件，并按自然数字顺序排序
+[2026-02-01 17:30:41] 从列表中删除文件: out.mp4
+[2026-02-01 17:30:42] 从列表中删除文件: [Feibanyama] Cosmic Princess Kaguya [NF WebRip 1080p HEVC OPUS Multi-Audio Multi-Subs].mkv
+[2026-02-01 17:31:29] 成功重命名: 正相反的你 - 1 - 1.mkv -> test - Season1 - 01.mkv
+[2026-02-01 17:31:29] 成功重命名: 正相反的你 - 1 - 02.mkv -> test - Season1 - 02.mkv
+[2026-02-01 17:31:29] 成功重命名: 正相反的你 - 1 - 03.mkv -> test - Season1 - 03.mkv
+[2026-02-01 17:31:29] 操作完成: 成功 3 个, 失败 0 个
+[2026-02-01 17:31:30] 清空了文件列表
+[2026-02-01 17:37:12] 添加了 5 个文件，并按自然数字顺序排序
+[2026-02-01 17:37:13] 从列表中删除文件: out.mp4
+[2026-02-01 17:37:14] 从列表中删除文件: [Feibanyama] Cosmic Princess Kaguya [NF WebRip 1080p HEVC OPUS Multi-Audio Multi-Subs].mkv
+[2026-02-01 17:37:53] 成功重命名: test - Season1 - 01.mkv -> 正相反的你和我 - 01 - Ep01.mkv
+[2026-02-01 17:37:53] 成功重命名: test - Season1 - 02.mkv -> 正相反的你和我 - 01 - Ep02.mkv
+[2026-02-01 17:37:53] 成功重命名: test - Season1 - 03.mkv -> 正相反的你和我 - 01 - Ep03.mkv
+[2026-02-01 17:37:53] 操作完成: 成功 3 个, 失败 0 个
+[2026-02-01 17:37:54] 清空了文件列表
